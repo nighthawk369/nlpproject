@@ -1,0 +1,51 @@
+2023-07-28 14:54:47,128 - INFO - Splitting directory .github/workflows and files .gitkeep
+2023-07-28 14:54:47,129 - INFO - Created directory .github/workflows for file .gitkeep
+2023-07-28 14:54:47,140 - INFO - Created empty file .github/workflows/.gitkeep
+2023-07-28 14:54:47,143 - INFO - Splitting directory src/textsummerizer and files __init__.py
+2023-07-28 14:54:47,154 - INFO - Created directory src/textsummerizer for file __init__.py
+2023-07-28 14:54:47,156 - INFO - Created empty file src/textsummerizer/__init__.py
+2023-07-28 14:54:47,157 - INFO - Splitting directory src/textsummerizer/components and files __init__.py
+2023-07-28 14:54:47,158 - INFO - Created directory src/textsummerizer/components for file __init__.py
+2023-07-28 14:54:47,162 - INFO - Created empty file src/textsummerizer/components/__init__.py
+2023-07-28 14:54:47,163 - INFO - Splitting directory src/textsummerizer/utils and files __init__.py
+2023-07-28 14:54:47,164 - INFO - Created directory src/textsummerizer/utils for file __init__.py
+2023-07-28 14:54:47,165 - INFO - Created empty file src/textsummerizer/utils/__init__.py
+2023-07-28 14:54:47,165 - INFO - Splitting directory src/textsummerizer/utils and files common.py
+2023-07-28 14:54:47,166 - INFO - Created directory src/textsummerizer/utils for file common.py
+2023-07-28 14:54:47,167 - INFO - Created empty file src/textsummerizer/utils/common.py
+2023-07-28 14:54:47,167 - INFO - Splitting directory src/textsummerizer/login and files __init__.py
+2023-07-28 14:54:47,173 - INFO - Created directory src/textsummerizer/login for file __init__.py
+2023-07-28 14:54:47,174 - INFO - Created empty file src/textsummerizer/login/__init__.py
+2023-07-28 14:54:47,175 - INFO - Splitting directory src/textsummerizer/config and files __init__.py
+2023-07-28 14:54:47,177 - INFO - Created directory src/textsummerizer/config for file __init__.py
+2023-07-28 14:54:47,178 - INFO - Created empty file src/textsummerizer/config/__init__.py
+2023-07-28 14:54:47,179 - INFO - Splitting directory src/textsummerizer/config and files configuration.py
+2023-07-28 14:54:47,179 - INFO - Created directory src/textsummerizer/config for file configuration.py
+2023-07-28 14:54:47,181 - INFO - Created empty file src/textsummerizer/config/configuration.py
+2023-07-28 14:54:47,181 - INFO - Splitting directory src/textsummerizer/pipeline and files __init__.py
+2023-07-28 14:54:47,184 - INFO - Created directory src/textsummerizer/pipeline for file __init__.py
+2023-07-28 14:54:47,184 - INFO - Created empty file src/textsummerizer/pipeline/__init__.py
+2023-07-28 14:54:47,185 - INFO - Splitting directory src/textsummerizer/entity and files __init__.py
+2023-07-28 14:54:47,189 - INFO - Created directory src/textsummerizer/entity for file __init__.py
+2023-07-28 14:54:47,190 - INFO - Created empty file src/textsummerizer/entity/__init__.py
+2023-07-28 14:54:47,191 - INFO - Splitting directory src/textsummerizer/constants and files __init__.py
+2023-07-28 14:54:47,192 - INFO - Created directory src/textsummerizer/constants for file __init__.py
+2023-07-28 14:54:47,194 - INFO - Created empty file src/textsummerizer/constants/__init__.py
+2023-07-28 14:54:47,194 - INFO - Splitting directory config and files config.yaml
+2023-07-28 14:54:47,195 - INFO - Created directory config for file config.yaml
+2023-07-28 14:54:47,196 - INFO - Created empty file config/config.yaml
+2023-07-28 14:54:47,197 - INFO - Splitting directory  and files params.yaml
+2023-07-28 14:54:47,199 - INFO - Created empty file params.yaml
+2023-07-28 14:54:47,199 - INFO - Splitting directory  and files app.py
+2023-07-28 14:54:47,201 - INFO - Created empty file app.py
+2023-07-28 14:54:47,201 - INFO - Splitting directory  and files main.py
+2023-07-28 14:54:47,203 - INFO - Created empty file main.py
+2023-07-28 14:54:47,203 - INFO - Splitting directory  and files Dockerfile
+2023-07-28 14:54:47,205 - INFO - Created empty file Dockerfile
+2023-07-28 14:54:47,205 - INFO - Splitting directory  and files requirements.txt
+2023-07-28 14:54:47,207 - INFO - Created empty file requirements.txt
+2023-07-28 14:54:47,207 - INFO - Splitting directory  and files setup.py
+2023-07-28 14:54:47,208 - INFO - Created empty file setup.py
+2023-07-28 14:54:47,209 - INFO - Splitting directory research and files trials.ipynb
+2023-07-28 14:54:47,210 - INFO - Created directory research for file trials.ipynb
+2023-07-28 14:54:47,211 - INFO - Created empty file research/trials.ipynb
